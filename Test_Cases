@@ -1,0 +1,26 @@
+ops.create("Book1",book1);
+Book 1 will be stored
+
+ops.create("Book2",book2);
+Book 2 will be stored
+
+ops.create("Book3",book3);
+Book 3 will be stored
+
+ops.create("Book3",book3);
+An object is there with that key.As Book 3 is already there
+
+ops.read("Book2");
+{"Month":"February","YEAR":2006,"Author":"BCD"}
+
+ops.read("Book4");
+No such data present in the file
+
+ops.delete("Book2");
+Book 2 will be deleted
+
+ops.read("Book2")
+No such data present in the file
+
+ops.read("Book4");
+No such element is there in the file to delete
