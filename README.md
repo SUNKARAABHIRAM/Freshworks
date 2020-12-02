@@ -1,7 +1,7 @@
 # Freshworks
-Ops file is a class with functionalities 
-OpesMain is main class 
-Test cases will be ther in Test_Cases
+Ops file is a class with functionalities. 
+OpesMain is main class.
+Test cases will be ther in Test_Cases.
 
 
 Problem Statement:
